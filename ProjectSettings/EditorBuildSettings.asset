@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 28003f5779323074cae67c3967ee080c
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 54a704099ea16b14a8f4f1e446f6ef3e
+  - enabled: 1
+    path: Assets/Scenes/stage2.unity
+    guid: f9f97a486eaffb546b1532d050620d08
+  - enabled: 1
+    path: Assets/Scenes/stage3.unity
+    guid: a23fb26c07d001049bb76dfdeb94cb1e
+  - enabled: 1
+    path: Assets/Scenes/stage4.unity
+    guid: 6e0f53732588bef4f9ec61d68feb2550
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: 7c59beeff84b4614fb8198f3877acf31
+  - enabled: 1
+    path: Assets/Scenes/gamestart.unity
+    guid: 3f2f61e0b6e2fc446afd3781924ec25e
+  - enabled: 1
+    path: Assets/Scenes/Player1Win.unity
+    guid: f934e612fed1e4c40a6015f845fe3dc9
+  - enabled: 1
+    path: Assets/Scenes/Player2Win.unity
+    guid: 7bd53490f27a9664c855cecfea6d8b62
+  - enabled: 1
+    path: Assets/Scenes/Draw.unity
+    guid: 9cf3c6326d5893f488c1b3377c72e365
+  - enabled: 1
+    path: Assets/Scenes/VS tanks.unity
+    guid: 24218bc70ef93a7428b498dc87c07546
+  - enabled: 1
+    path: Assets/Scenes/Option.unity
+    guid: 6cc70b2fa2cefe0488343b16d66d60e3
+  - enabled: 1
+    path: Assets/Scenes/BOSS.unity
+    guid: 405a0f17bdb7ec24491bd21e80e5a57c
+  - enabled: 1
+    path: Assets/Scenes/soviet.unity
+    guid: 09d7d450b39bdc141aac9d7007f672ba
+  m_configObjects: {}
